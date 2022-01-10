@@ -182,12 +182,12 @@ input[type="text"], input[type="text"]:focus {
     border: none;
     border-bottom: 1px solid green;
 
-    font-size: 35px;
+    font-size: 45px;
        
 }
 
 input[type="text"]::placeholder {
-    font-size: 30px;
+    font-size: 45px;
     text-align: center;
 }
 
